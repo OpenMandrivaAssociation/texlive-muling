@@ -1,6 +1,6 @@
 Name:		texlive-muling
 Version:	61719
-Release:	1
+Release:	2
 Summary:	MA Thesis class for the Department of Linguistics, University of Mumbai
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/muling
